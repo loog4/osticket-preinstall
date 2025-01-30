@@ -27,3 +27,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <h3>Create the Azure Virtual Machine</h3>
+<p></p>
